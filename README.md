@@ -1,7 +1,7 @@
 <div align="center">
   <img style="margin: 0" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNvemczOGt4YzQ2MGtuZmttcjhxaWNuNjdheTJ0N3pobnNkYm51ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif" width="80">
   
-  ## Hi I'm Nabina 👋
+  ## Hi, I'm Nabina 👋
   
   ### 👩🏻‍💻 Tech Stack:
   <img src="https://skillicons.dev/icons?i=ruby,rails,python,js,html,css">
