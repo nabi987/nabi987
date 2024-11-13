@@ -10,7 +10,7 @@
 
   ### Let's connect:
  <a href="https://www.linkedin.com/in/nabinapurja/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
- <a href="https://www.linkedin.com/in/nabinapurja/"><img src="https://img.shields.io/badge/Webpage-FF8A8A?style=flat"></a>
+ <a href="https://nabi987.github.io/profile/"><img src="https://img.shields.io/badge/Webpage-FF8A8A?style=flat"></a>
 </div>
 
 
