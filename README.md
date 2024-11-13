@@ -9,7 +9,8 @@
   <img src="https://skillicons.dev/icons?i=ruby,rails,python,js,html,css">
 
   ### Let's connect:
- <a href="https://www.linkedin.com/in/nabinapurja/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+ <a href="https://www.linkedin.com/in/nabinapurja/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
+ <a href="https://www.linkedin.com/in/nabinapurja/"><img src="https://img.shields.io/badge/Webpage-FF8A8A?style=flat"></a>
 </div>
 
 
