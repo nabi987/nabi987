@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=nabi987&color=FF8A8A" alt=""/>
   
   ### 👩🏻‍💻 Tech Stack:
-  <img src="https://skillicons.dev/icons?i=ruby,rails,python,html,css">
+  <img src="https://skillicons.dev/icons?i=ruby,python,html,css">
   
   ### Currently learning: 
   <img src="https://skillicons.dev/icons?i=java">
